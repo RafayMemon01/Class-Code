@@ -1,0 +1,16 @@
+.redHeading{
+    color: red;
+    background-color: black;
+}
+.blueHeading{
+    color: blue;
+}
+
+#orange{
+    background-color: orange;
+}
+
+
+*{
+    background-color: black;
+}
