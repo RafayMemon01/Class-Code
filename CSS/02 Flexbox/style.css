@@ -1,0 +1,21 @@
+.main-div{
+    height: 2em;
+    background-color: red;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: end;
+    /* gap: 2em; */
+}
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+.childOne{
+    height: 10px;
+    background-color: yellow;
+    width: 100px;
+}
+
+.childTwo{
+    height: 10px;
+    background-color: black;
+    width: 100px;
+}
